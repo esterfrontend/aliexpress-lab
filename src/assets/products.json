@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "LED Night Light",
+      "description": "Compact USB-powered LED lamp, perfect for late-night reading.",
+      "price": 2.99,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703239/aaron-munoz-OACy7IAg-JU-unsplash_r0jobt.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Silicone Phone Case",
+      "description": "Durable silicone case for smartphones, available in various colors.",
+      "price": 1.50,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703239/grysell-alvarez-FQXbLmlmvWY-unsplash_jkjnoa.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with adjustable DPI, compatible with all devices.",
+      "price": 4.99,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703238/barry-a-O5CZSXxT8NE-unsplash_dt5dwt.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Keychain Flashlight",
+      "description": "Mini LED flashlight on a keychain, water-resistant and durable.",
+      "price": 0.99,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703388/asim-rehman-isw7s8PWi0U-unsplash_xcdfl5.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Elastic Shoelaces",
+      "description": "No-tie elastic shoelaces, perfect for runners and athletes.",
+      "price": 1.20,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703239/roberto-sorin-oaeyvk5USJY-unsplash_i43tep.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Sticky Notes Set",
+      "description": "Colorful sticky notes set, ideal for organization and reminders.",
+      "price": 0.89,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703239/joanna-kosinska-I3adKpDNAjM-unsplash_lgejaa.jpg"
+    },
+    {
+      "id": 7,
+      "title": "USB Charging Cable",
+      "description": "Durable USB charging cable, compatible with multiple devices.",
+      "price": 3.00,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703239/zachary-keimig-0zkZ-4Gustk-unsplash_xibt9s.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Digital Thermometer",
+      "description": "Fast and accurate digital thermometer, suitable for home use.",
+      "price": 2.50,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703239/anton-SZ1DDwCPqkE-unsplash_fcvi1k.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Garden Gloves",
+      "description": "Protective gardening gloves with clawed fingertips for easy digging.",
+      "price": 2.20,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703239/zachary-keimig-0zkZ-4Gustk-unsplash_xibt9s.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Bicycle Bell",
+      "description": "Loud and clear bicycle bell, easy to install on any bike handle.",
+      "price": 1.10,
+      "image": "https://res.cloudinary.com/dagndlfhj/image/upload/v1708703239/hans-vivek-_Vt_Pqk_QX4-unsplash_p9xt8w.jpg"
+    }
+  ]
+}
